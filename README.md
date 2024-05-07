@@ -1,7 +1,8 @@
 ### Bruno Fernandes
 
-
 <sub>*Estudante de Ciência de Dados*</sub>
+
+[![TITULO1](https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png)]
 
 -  :clipboard:**Sou um Projetista que esta no processo de se tornar um cientista de dados.**
 
