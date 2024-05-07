@@ -3,17 +3,17 @@
 
 <sub>*Estudante de Ciência de Dados*</sub>
 
--  :green_book: **Sou um Projetista que esta no processo de se tornar um cientista de dados.**
+-  :clipboard:**Sou um Projetista que esta no processo de se tornar um cientista de dados.**
 
--  **Atualmente estudando pela plataforma ALURA com o foco em Data Science.**
+-  :green_book:**Atualmente estudando pela plataforma ALURA com o foco em Data Science.**
 
--  **Estudando e me especializando em: Python, Machine Learning, NoSQL e Power BI.**
+-  :chart_with_upwards_trend:**Estudando e me especializando em: Python, Machine Learning, NoSQL e Power BI.**
 
--  **Testando e aprimorando diariamente minhas habilidades.**
+-  :thumbsup:**Testando e aprimorando diariamente minhas habilidades.**
 
--  **Tenho como foco migrar para a area de Ciência de Dados.**
+-  :bulb:**Tenho como foco migrar para a area de Ciência de Dados.**
 
--  **No aguardo de uma oportunidade para me provar.**
+-  :fire:**No aguardo de uma oportunidade para me provar.**
 
 ### Contatos 📭
 
