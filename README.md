@@ -3,7 +3,7 @@
 
 <sub>*Estudante de Ciência de Dados*</sub>
 
--  **Sou um Projetista que esta no processo de se tornar um cientista de dados.**
+-  :green_book: **Sou um Projetista que esta no processo de se tornar um cientista de dados.**
 
 -  **Atualmente estudando pela plataforma ALURA com o foco em Data Science.**
 
@@ -15,7 +15,6 @@
 
 -  **No aguardo de uma oportunidade para me provar.**
 
--  
 ### Contatos 📭
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/bruno-fernandes-lopes-a75464138/)
